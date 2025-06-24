@@ -22,7 +22,7 @@ It was created as part of a data visualization and analytics internship submissi
 ## 🔗 Live Dashboard
 
 View the interactive dashboard here:  
-👉 [Apple 2024 Sales Analysis Power BI Dashboard – Live Link]([https://app.powerbi.com/view?r=your-report-link](https://app.powerbi.com/view?r=eyJrIjoiNTRjMWMwN2MtYzUzYS00OWY2LWJlMGItMzJhY2MyOWNmM2MwIiwidCI6Ijk3MTJmMDRjLWY1ZjktNDAxZS05OWE3LTdlODM1OTA3MjU3MSJ9))
+👉 [Apple 2024 Sales Analysis Power BI Dashboard – Live Link]((https://app.powerbi.com/view?r=eyJrIjoiNTRjMWMwN2MtYzUzYS00OWY2LWJlMGItMzJhY2MyOWNmM2MwIiwidCI6Ijk3MTJmMDRjLWY1ZjktNDAxZS05OWE3LTdlODM1OTA3MjU3MSJ9))
 
 
 ---
